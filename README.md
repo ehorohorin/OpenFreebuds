@@ -19,6 +19,7 @@ Features:
 - Open source and free forever
 
 Supported devices:
+- HUAWEI FreeBuds 5i
 - HUAWEI FreeBuds 4i
 - HUAWEI FreeLace Pro
 - HONOR Earbuds 2 Lite
